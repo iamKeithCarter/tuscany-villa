@@ -1,0 +1,351 @@
+footer {
+    min-height: 70px;
+    background-color: grey;
+    color: white;
+}
+
+.footer {
+    width: auto height: 60px;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.container-fluid {}
+
+img {
+    width: 100%;
+}
+
+body {
+    font-family: 'Mr Dafoe', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+    margin: 0px;
+    max-height: 300px;
+    background-color: #888;
+    border-radius: 0px;
+}
+
+.jumbotron h2 {
+    font-weight: bold;
+    font-style: oblique;
+    color: #82bfd0;
+}
+
+.navbar-brand {
+    background-image: url("css_images/logo_header.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 190px;
+    background-color: #4fb1a2;
+}
+
+.navbar-right {
+    background-color: #82bfd0;
+    margin: 0px;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.morenavtext {
+    color: #fff
+}
+
+div {
+    align-content: center;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#toprow {
+    overflow-y: hidden;
+    clear: both;
+}
+
+.col-xs-3 {
+    min-width: 25%;
+}
+
+.navbar {
+    margin: 0px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.navbar-nav {
+    padding-left: 15%;
+    font-size: 12px;
+}
+
+.panel {
+    vertical-align: center;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0px;
+    background-position: center;
+    height: 240px;
+}
+
+.textbox p {
+    font-size: smaller;
+}
+
+.textbox {
+    margin-top: 25px;
+    padding: 15px;
+}
+
+#gridhero-1 {
+    background-size: cover;
+    background-image: url("css_images/tuscany-villas-sant-anna.jpg");
+    background-repeat: no-repeat;
+}
+
+#gridhero-2 {
+    background-size: cover;
+    background-image: url("css_images/Versilia.jpg");
+    background-repeat: no-repeat;
+}
+
+#grid1-1 {}
+
+#grid1-2 {
+    background-image: url("css_images/3b-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid1-3 {
+    background-image: url("css_images/42-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid1-4 {
+    background-image: url("css_images/314-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid2-1 {
+    background-image: url("css_images/Villa-Rucellai-Toscani-2812-2-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid2-2 {
+    /* background-image: url("css_images/Villa-Rucellai-Toscani-2812-2-348x348.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid2-3 {
+    background-image: url("css_images/Villa-Rucellai-Toscani-2750-2-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid2-4 {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#grid3-1 {
+    background-size: cover;
+}
+
+#grid3-2 {
+    background-image: url("css_images/Villa-Vanna-231-348x348.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#grid3-3 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #4fb1a2;
+}
+
+#grid3-4 {}
+
+#texthero-1 {
+    color: white;
+    background-color: #2a2a2a;
+    position: absolute;
+    width: 100%;
+    bottom: 35%;
+    left: 25%;
+    padding: 4px;
+    opacity: .85;
+    max-width: 50%;
+}
+
+#texthero-2 {
+    font-weight: bold;
+    width: 100%;
+    color: white;
+    background-color: #2a2a2a;
+    position: absolute;
+    bottom: 35%;
+    left: 25%;
+    padding: 4px;
+    opacity: .85;
+    max-width: 50%
+}
+
+#text1-1 {
+    font-family: fantasy;
+    font-weight: bold;
+    color: #90b1ff;
+    max-width: 120px;
+    display: block;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.overlaybox li {
+    margin-right: 4px;
+    margin-left: 2px;
+    font-family: wingdings;
+}
+
+#text1-3,
+#text1-4,
+#text1-2 {
+    color: white;
+    width: 60%;
+    background-color: #2a2a2a;
+    position: absolute;
+    bottom: 35%;
+    left: 21%;
+    padding: 8px;
+    opacity: .85;
+}
+
+.overlaybox {
+    position: absolute;
+    width: 95%;
+    bottom: 5%;
+    left: 5%;
+}
+
+.overlaybox ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.textboxblue {
+    color: white;
+    background-color: #4fb1a2;
+    opacity: .95;
+    width: 25%;
+    float: left;
+}
+
+.smalltextboxblue {
+    color: white;
+    background-color: #4fb1a2;
+    opacity: .95;
+    width: 12%;
+    max-width: 34px;
+    position: absolute;
+    left: 46px;
+    bottom: 55px;
+    font-size: 10px
+}
+
+#text2-1,
+#text2-3,
+#text3-2 {
+    color: white;
+    background-color: #2a2a2a;
+    padding: 3px;
+    opacity: .85;
+    width: 70%;
+    float: left;
+    text-align: left;
+    max-width: 222px;
+}
+
+#text3-4 {
+    max-width: 250px;
+    margin: auto;
+}
+
+#text3-3 {
+    color: white;
+}
+
+#text3-3 h1 {
+    font-size: 50px;
+    font-style: italic;
+}
+
+#text2-3,
+#text3-2,
+#text2-1,
+ul li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 0px;
+}
